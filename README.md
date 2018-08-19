@@ -8,8 +8,6 @@ It is designed in LaTeX, PGF/TikZ.
 ## The actual logo
 
 ![image could not be shown](./cdmlogo.svg)
-<img src="./cdmlogo.svg">
-
 
 ## Authors
 
