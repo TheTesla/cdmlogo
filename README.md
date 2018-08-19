@@ -5,6 +5,12 @@ This is the project logo for:
 
 It is designed in LaTeX, PGF/TikZ.
 
+## The actual logo
+
+![image could not be shown](./cdmlogo.svg)
+<img src="./cdmlogo.svg">
+
+
 ## Authors
 
 **Stefan Helmert** logo design, adapting and composing component
